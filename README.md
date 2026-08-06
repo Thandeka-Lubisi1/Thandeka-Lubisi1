@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thandeka-lubisi1" alt="thandeka-lubisi1" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Campus Services Portal**
-
-- 🌱 I’m currently learning **Advanced Diploma in Computer Science,React**
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 🤝 I’m looking for help with **IoT and Cloud Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thandeka-Lubisi1](https://github.com/Thandeka-Lubisi1)
 
